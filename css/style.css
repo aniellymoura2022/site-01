@@ -29,7 +29,7 @@ header .menu{
 header  .menu li{
     display: inline-block;
 }
-header menu a{
+header .menu a{
     color: white;
     padding: 8px 12px;
     border-radius: 3px;
